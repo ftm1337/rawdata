@@ -1,0 +1,19 @@
+{
+  "max": 1337,
+  "total": 1336.9999,
+  "circulating": 250.2,
+  "burned": 17.8501337,
+  "reserved": 671,
+  "locked": 384,
+  "outstanding": 666,
+  "burns": {
+    "burn": 0.00001337,
+    "zero": 17.85,
+    "dead": 0
+  },
+  "locks": {
+    "0xetl1": 384
+  },
+  "treasury": 12.8,
+  "team": 13.37
+}
