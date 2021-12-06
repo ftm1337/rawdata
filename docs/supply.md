@@ -3,10 +3,6 @@
 title: "Supply Distribution of ELITE"
 author: "FTM1337"
 date: "Dec. 1st, 2021"
-output: 
-  html_document:
-     css: style.css
-     self_contained: no
 
 ---
 
