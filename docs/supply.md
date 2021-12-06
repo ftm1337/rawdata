@@ -8,9 +8,7 @@ date: "Dec. 1st, 2021"
 
 <h1 align="center"> Supply Distribution of ELITE</h1>
 
-<div class="tc">
-  | 🔎 [ftmscan](https://ftmscan.com/token/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882) | [CoinMarketCap](https://coinmarketcap.com/currencies/elite-1337) | [CoinGecko](https://www.coingecko.com/coins/elite-1337) | [Nomics](https://nomics.com/assets/elite2-ftmguru) |
-</div>
+| 🔎 [ftmscan](https://ftmscan.com/token/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882) | [CoinMarketCap](https://coinmarketcap.com/currencies/elite-1337) | [CoinGecko](https://www.coingecko.com/coins/elite-1337) | [Nomics](https://nomics.com/assets/elite2-ftmguru) |
 
 This document attempts to address how the 1337 ELITEs are distributed.  
 _^ implies approximation._
@@ -177,16 +175,12 @@ Ever since, they have been staying timelocked.
 `0xad70c7cbc8f856681b4ebdd37aeac58cf7100736`
 
 ## Known Yield-bearing Smart Contracts containing ELITE
-
-<div class="tc">
-
+{.tc}
   |Farm|Uses|From|Gives|Smart Contract Address|
   |----|----|----|----|----|
   |[↗ ftm.guru YieldState 1](https://ftm.guru/YS/1)|ELITE-FTM LP|Sushi|ELITE|`0xeF66A11788a3B3180be4Aa31A5743c6a6e87a555`|
   |[↗ ftm.guru YieldState 2](https://ftm.guru/YS/2)|ELITE-FTM LP|SpookySwap|ELITE|`0xAD70c7cBC8f856681b4ebdD37AEAc58cF7100736`|
   |[↗ ftm.guru XELITE](https://ftm.guru/xelite)|ELITE| ftm.guru/xelite |ELITE|`0x1BE23c78038B6057172848534AcD62667fA2620d`|
-
-</div>
   
 ## Top-25 Addresses
 
