@@ -1,4 +1,15 @@
-# Supply Distribution of ELITE (ftm.guru) token
+---
+title: "Supply Distribution of ELITE"
+author: "FTM1337"
+date: "Dec. 1st, 2021"
+output: 
+  html_document:
+     css: style.css
+     self_contained: no
+
+---
+
+# Supply Distribution of ELITE<br>`ftm.guru` Token
 This document attempts to address how the 1337 ELITEs are distributed.
 _^ implies approximation._
 ### API Endpoint
