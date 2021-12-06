@@ -7,6 +7,7 @@ date: "Dec. 1st, 2021"
 ---
 
 <h1 align="center"> Supply Distribution of ELITE</h1>
+
 - https://ftmscan.com/token/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882
 - https://coinmarketcap.com/currencies/elite-1337
 - https://www.coingecko.com/coins/elite-1337
