@@ -57,8 +57,7 @@ i.e.  `CALL:balanceOf(<specific-address-here>)`
   minus `0x74BFb7E94bEf5767F5F6Ace2D0df73a224ADB689`  
   minus `0xbab9645d1B78425A7e4e9e78E8DD32aAbd800a16`  
   minus `0x167D87A906dA361A10061fe42bbe89451c2EE584`  
-  minus `0x0000000000000000000000000000000000000000`  
-  minus `0x5c146cd18fa53914580573c9b9604588529406ca`  
+  minus `0x0000000000000000000000000000000000000000`   
 ### Unreserved Supply
 `CALL:circulatingSupply()`
 ### Burned Supply
