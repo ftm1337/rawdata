@@ -175,6 +175,7 @@ Ever since, they have been staying timelocked.
 `0xad70c7cbc8f856681b4ebdd37aeac58cf7100736`
 
 ## Known Yield-bearing Smart Contracts containing ELITE
+
 {.tc}
   |Farm|Uses|From|Gives|Smart Contract Address|
   |----|----|----|----|----|
