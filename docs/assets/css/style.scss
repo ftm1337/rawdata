@@ -5,4 +5,6 @@
 
 header,footer {
   display: none;
+  td{min-width:  max-content}
+  .tc{overflow: auto}
 }
