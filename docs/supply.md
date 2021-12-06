@@ -30,6 +30,33 @@ _^ implies approximation._
     - "Dead-address" : `0x000000000000000000000000000000000000DEAD`
     - "Dead-Elite address" : `0x00000000000000000000000000000000DEAD1337`
 
+## Calculations
+- `CALL:f()` format notation implies calling the ELITE Smart Contract's specified view-function.
+Call `0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882` on Chain-ID `0xFA` (250:Fantom Opera).
+- Following notation implies adding ("plus") or subtracting ("minus") the ELITE balances at the specific addresses.
+i.e.  `CALL:balanceOf(<specific-address-here>)`
+
+### Max Supply
+1337
+### Total Supply
+`CALL:totalSupply()`
+### Circulating Supply
+`CALL:totalSupply()`
+  minus `0x5c146cd18fa53914580573c9b9604588529406ca`
+  minus `0x74BFb7E94bEf5767F5F6Ace2D0df73a224ADB689`
+  minus `0xbab9645d1B78425A7e4e9e78E8DD32aAbd800a16`
+  minus `0x167D87A906dA361A10061fe42bbe89451c2EE584`
+  minus `0x0000000000000000000000000000000000000000`
+  minus `0x5c146cd18fa53914580573c9b9604588529406ca`
+### Unreserved Supply
+`CALL:circulatingSupply()`
+### Burned Supply
+1337
+minus `CALL:totalSupply()`
+  plus `0x0000000000000000000000000000000000000000`
+  plus `0x000000000000000000000000000000000000dEaD`
+  plus `0x000000000000000000000000000000001337dEaD`
+
 ## Special Addresses
 ### Protocol Reserve & Genesis Address
 `0xbab9645d1B78425A7e4e9e78E8DD32aAbd800a16`
@@ -66,41 +93,13 @@ _^ implies approximation._
 Ever since, they have been staying timelocked.
 - Will be upgraded in future to incentivise public `relock`ing
 
-## Calculations
-- `CALL:f()` format notation implies calling the ELITE Smart Contract's specified view-function.
-Call `0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882` on Chain-ID `0xFA` (250:Fantom Opera).
-- Following notation implies adding ("plus") or subtracting ("minus") the ELITE balances at the specific addresses.
-i.e.  `CALL:balanceOf(<specific-address-here>)`
-
-### Max Supply
-1337
-### Total Supply
-`CALL:totalSupply()`
-### Circulating Supply
-`CALL:totalSupply()`
-  minus `0x5c146cd18fa53914580573c9b9604588529406ca`
-  minus `0x74BFb7E94bEf5767F5F6Ace2D0df73a224ADB689`
-  minus `0xbab9645d1B78425A7e4e9e78E8DD32aAbd800a16`
-  minus `0x167D87A906dA361A10061fe42bbe89451c2EE584`
-  minus `0x0000000000000000000000000000000000000000`
-  minus `0x5c146cd18fa53914580573c9b9604588529406ca`
-### Unreserved Supply
-`CALL:circulatingSupply()`
-### Burned Supply
-1337
-minus `CALL:totalSupply()`
-plus `0x0000000000000000000000000000000000000000`
-plus `0x000000000000000000000000000000000000dEaD`
-plus `0x000000000000000000000000000000001337dEaD`
-
-## Further Reading
-### XELITE
+## XELITE
 `0x1BE23c78038B6057172848534AcD62667fA2620d`
 - Interest Bearing ELITE
 - Earn a small yet stable passive income for holding ELITE
 - https://ftm.guru/xelite
 
-### Known DEX Smart Contracts
+## Known DEX Smart Contracts
 #### SpookySwap : WFTM + ELITE
 `0xea035a13b64cb49d85e2f0a2736c9604cb21599c`
 #### Sushi : WFTM + ELITE
@@ -164,7 +163,7 @@ plus `0x000000000000000000000000000000001337dEaD`
 #### SpiritSwap : SPIRIT + ELITE
 `0xad70c7cbc8f856681b4ebdd37aeac58cf7100736`
 
-### Known Yield-bearing Smart Contracts containing ELITE
+## Known Yield-bearing Smart Contracts containing ELITE
 
 |Farm|Uses|From|Gives|Smart Contract Address|
 |----|----|----|----|----|
@@ -172,7 +171,7 @@ plus `0x000000000000000000000000000000001337dEaD`
 |[↗ ftm.guru YieldState 2](https://ftm.guru/YS/2)|ELITE-FTM LP|SpookySwap|ELITE|`0xAD70c7cBC8f856681b4ebdD37AEAc58cF7100736`|
 |[↗ ftm.guru XELITE](https://ftm.guru/xelite)|ELITE| ftm.guru/xelite |ELITE|`0x1BE23c78038B6057172848534AcD62667fA2620d`|
 
-### Top-25 Addresses
+## Top-25 Addresses
 
 #### Type-Legend
 
