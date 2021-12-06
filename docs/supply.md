@@ -103,11 +103,6 @@ plus `0x000000000000000000000000000000001337dEaD`
 - Earn a small yet stable passive income for holding ELITE
 - https://ftm.guru/xelite
 
-
-
-
-
-
 ### Known DEX Smart Contracts
 #### SpookySwap : WFTM + ELITE
 `0xea035a13b64cb49d85e2f0a2736c9604cb21599c`
@@ -173,6 +168,7 @@ plus `0x000000000000000000000000000000001337dEaD`
 `0xad70c7cbc8f856681b4ebdd37aeac58cf7100736`
 
 ### Known Yield-bearing Smart Contracts containing ELITE
+
 |Farm|Uses|From|Gives|Smart Contract Address|
 |----|----|----|----|----|
 |[↗ ftm.guru YieldState 1](https://ftm.guru/YS/1)|ELITE-FTM LP|Sushi|ELITE|`0xeF66A11788a3B3180be4Aa31A5743c6a6e87a555`|
@@ -180,8 +176,9 @@ plus `0x000000000000000000000000000000001337dEaD`
 |[↗ ftm.guru XELITE](https://ftm.guru/xelite)|ELITE| ftm.guru/xelite |ELITE|`0x1BE23c78038B6057172848534AcD62667fA2620d`|
 
 ### Top-25 Addresses
+
 |	Rank 	|	Address 	|	Type	|	Quantity (Token) 	|	Percentage	|	Description	|
-|	----	|	----	|	----	|	----	|	----	|	----	|
+|----|----|----|----|----|----|
 |	1	|	0x74bfb7e94bef5767f5f6ace2d0df73a224adb689	|	🖧 🔐	|	384.683723970419758060	|	28.7722%	|	Infinite Timelock	|
 |	2	|	0x0000000000000000000000000000000000000000	|	🖧 🔐	|	17.652120461849605950	|	1.3203%	|	Zero-address	|
 |	3	|	0x1be23c78038b6057172848534acd62667fa2620d	|	🖧 Ⓒ	|	16.900524787334781976	|	1.2641%	|	XELITE	|
@@ -209,6 +206,7 @@ plus `0x000000000000000000000000000000001337dEaD`
 |	25	|	0x90660dae63ee2736a40c38651416868f3876eabc	|	👤 Ⓒ	|	4.100000000000000000	|	0.3067%	|	Regular User	|
 
 #### Type-Legend
+
 | Symbol | Meaning |
 | ---- | ---- |
 | 🔐 | Excluded from Circulating Supply |
