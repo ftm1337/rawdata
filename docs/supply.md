@@ -187,18 +187,51 @@ Ever since, they have been staying timelocked.
 
 #### Type-Legend
 
-<div class="tc">
+| Symbol | Meaning |
+| ---- | ---- |
+| 🔐 | Excluded from Circulating Supply |
+| Ⓒ | Included in Circulating Supply |
+| 👷 | Team Controlled Address |
+| 🖧 | Smart Contract |
+| 👤 | Regular User |{.tc}
 
-  | Symbol | Meaning |
-  | ---- | ---- |
-  | 🔐 | Excluded from Circulating Supply |
-  | Ⓒ | Included in Circulating Supply |
-  | 👷 | Team Controlled Address |
-  | 🖧 | Smart Contract |
-  | 👤 | Regular User |
+#### Type-Legend
 
-</div>  
-  
+| Symbol | Meaning |
+| ---- | ---- |
+| 🔐 | Excluded from Circulating Supply |
+| Ⓒ | Included in Circulating Supply |
+| 👷 | Team Controlled Address |
+| 🖧 | Smart Contract |
+| 👤 | Regular User |
+{.tc}
+
+
+
+#### Type-Legend
+
+| Symbol | Meaning |
+| ---- | ---- |
+| 🔐 | Excluded from Circulating Supply |
+| Ⓒ | Included in Circulating Supply |
+| 👷 | Team Controlled Address |
+| 🖧 | Smart Contract |
+| 👤 | Regular User |
+
+{.tc}
+
+
+
+#### Type-Legend
+
+{.tc}| Symbol | Meaning |
+| ---- | ---- |
+| 🔐 | Excluded from Circulating Supply |
+| Ⓒ | Included in Circulating Supply |
+| 👷 | Team Controlled Address |
+| 🖧 | Smart Contract |
+| 👤 | Regular User |
+
 #### List of Holders
 
 <div class="tc">
@@ -231,5 +264,4 @@ Ever since, they have been staying timelocked.
   |	24	|	0xccff9b35ec5d7893ea728e154d3719e27eefca89	|	👤 Ⓒ	|	4.111656563812836293	|	0.3075%	|	Regular User	|
   |	25	|	0x90660dae63ee2736a40c38651416868f3876eabc	|	👤 Ⓒ	|	4.100000000000000000	|	0.3067%	|	Regular User	|
 
-</div>
-
+{.tc}
