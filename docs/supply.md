@@ -9,7 +9,7 @@ output:
 
 ---
 
-# Supply Distribution of ELITE<br>`ftm.guru` Token
+# Supply Distribution of ELITE<br>`ftm.guru` Token {.center}
 This document attempts to address how the 1337 ELITEs are distributed.
 _^ implies approximation._
 ### API Endpoint
