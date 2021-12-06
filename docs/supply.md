@@ -3,15 +3,19 @@
 title: "Supply Distribution of ELITE"
 author: "FTM1337"
 date: "Dec. 1st, 2021"
+output: 
+  html_document:
+     css: style.css
+     self_contained: no
 
 ---
 
 <h1 align="center"> Supply Distribution of ELITE</h1>
 
-- https://ftmscan.com/token/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882
-- https://coinmarketcap.com/currencies/elite-1337
-- https://www.coingecko.com/coins/elite-1337
-- https://nomics.com/assets/elite2-ftmguru
+- <https://ftmscan.com/token/0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882>
+- <https://coinmarketcap.com/currencies/elite-1337>
+- <https://www.coingecko.com/coins/elite-1337>
+- <https://nomics.com/assets/elite2-ftmguru>
 
 This document attempts to address how the 1337 ELITEs are distributed.
 _^ implies approximation._
