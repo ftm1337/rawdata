@@ -8,6 +8,13 @@ The https URL of this file can be cross-validated with ELITE's listed website's 
 ----
 
 ## Correct Information about ELITE
+### Logo
+#### Thumbnail
+![](https://ftm.guru/img/ftm1337.jpg)
+- [ftm.guru/img/64.png](https://ftm.guru/img/ftm1337.jpg)
+#### Icon
+![](https://ftm.guru/img/64.png)
+- [ftm.guru/img/64.png](https://ftm.guru/img/64.png)
 ### Name
 ftm.guru
 ### Symbol
