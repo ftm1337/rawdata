@@ -46,7 +46,7 @@ An innovative [**ERC20 distributor**](https://ftm.guru/airdrop) that can serve t
 [**NFT airdropper**](https://ftm.guru/nftdrop) that supports ERC721 & ERC1155 tokens to be sent to custom lists of receivers within a single transaction to save time, effort and money.
 ## B.O. - Binary Options Market
 The First [**Binary Options platform**](https://ftm.guru/bo) on Fantom Opera that offers multiple markets and contract durations, like FTMUSD weekly Options.
-## Elcrow
+## eScrow
 An Escrow servie based on allowances instead of direct order: I helps two parties exchange any custom assets in a truustless and tamper-proof manner.
 # Public Services
 (Free services, that don't require web3-logins)
@@ -59,7 +59,7 @@ The [**FantomScan**](https://ftm.guru/fantomscan) was born when ftmscan explorer
 The only [**universal AMM analyzer dApp**](https://ftm.guru/pair) on Fantom that tracks more than 10000 market pairs from over 35 DEXes of Fantom, providing crucial trade data such as all-time trade histories and liquidity health analysis.
 ## Liquidity Finder
 A tool that scorches all on-chain DEXes to spot themost liquid markets for any input token. Also provides a "best buy" and "best sell" "Route" to make it easy to make manual tranactions that optimize returns for assets that lack 3rd-party aggregation services.
-## Exarb
+## eXarb
 An Arbitration spotting service that can spot arbitrage opportunities for any token that has active liquidity across 2 or more markets. It uses a cmbination of heuristics and calculus to define the most profitable flash-loaning "Routes".
 ## The Approver
 The [**Approver tool**](https://ftm.guru/approver) enables everyone to create allowance, edit or modify spending limits, grant infinite permissions or Revoke any of these easily.
