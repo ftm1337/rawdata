@@ -22,7 +22,7 @@ ftm.guru's Databanks & Adapters:
 ### Smart Contract Details
 #### Address
 `0x41b9231e528a417341382b2c995c6dde21cea93d`
-- [ :mag: Read on ftmscan](https://ftmscan.com/address/0x41b9231e528a417341382b2c995c6dde21cea93d#readContract)
+- [Read on ftmscan](https://ftmscan.com/address/0x41b9231e528a417341382b2c995c6dde21cea93d#readContract)
 
 ### Summary of Modules
 
@@ -45,6 +45,7 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 
 ## Banks : By Chronology
 ### 1. Sushi YieldState
+
 | Key | Value | Description |
 | ---- | ---- | ---- |
 | Module | `lpt_ftm_usd` |  |
@@ -54,6 +55,7 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 | `lp` | `0x50576ed9d94cf934bc32abf76e08ec6ddcd54bf0` |  ELITE-WFTM SLP : Sushiswap Liquidity Token |
 
 ### 2. Spooky YieldState
+
 | Key | Value | Description |
 | ---- | ---- | ---- |
 | Module | `lpt_ftm_usd` |  |
