@@ -47,7 +47,7 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 ### 1. Sushi YieldState
 
 | Key | Value | Description |
-| ---- | ---- | ---- |
+| --- | --- | --- |
 | Module | `lpt_ftm_usd` |  |
 | `asset` | `0x50576ed9d94cf934bc32abf76e08ec6ddcd54bf0` | ELITE-WFTM SLP : Sushiswap Liquidity Token |
 | `dec` | 18 | Decimals in Asset |
@@ -57,7 +57,7 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 ### 2. Spooky YieldState
 
 | Key | Value | Description |
-| ---- | ---- | ---- |
+| --- | --- | --- |
 | Module | `lpt_ftm_usd` |  |
 | `asset` | `0xea035a13b64cb49d85e2f0a2736c9604cb21599c` | ELITE-WFTM SpLP : Spookyswap Liquidity Token |
 | `dec` | 18 | Decimals in Asset |
