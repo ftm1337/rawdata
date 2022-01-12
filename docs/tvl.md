@@ -67,15 +67,16 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 | 11  | BabySpirit-WFTM Spirit LP   | LITE Farmlands - LF#151:BabySpirit| `lpt_coin_usd`        | `0xB0002624766dA87e249eae3B6175D4EAE7373eAb` | `0xF88005D839A2f14E6b4f14938bb3DEB4521cff21` |
 | 12  | BabySpirit-WFTM Spirit LP   | LITE Farmlands - LF#152:BabySpirit| `lpt_coin_usd`        | `0xB0002624766dA87e249eae3B6175D4EAE7373eAb` | `0xCd1430673B0EA81A3c027f13BCb1cC13EDEc6680` |
 | 13  | TCUZ-WFTM Sushi LP          | LITE Farmlands - LF#301:TCUZ      | `lpt_coin_usd`        | `0x0B7528b304fA3B89A3D1d2C4B958134512464097` | `0x8B2D8EBb49f1133522E669166E605799DC445f6E` |
-| 14  | SunFinance (SUN)            | LITE Farmlands - LF#1010:SUN      | `lpt_coin_usd`        | `0x60e91f89A2986975822De3BfE50df002Ef46EaAD` | `0x0f907b1C407bABdbaDb57100704c3CB8CDD9Db01` |
+| 14  | SunFinance (SUN)            | LITE Farmlands - LF#1010:SUN      | `t_coin_usd`        | `0x60e91f89A2986975822De3BfE50df002Ef46EaAD` | `0x0f907b1C407bABdbaDb57100704c3CB8CDD9Db01` |
 | 15  | SUN-FTM Spirit LP           | LITE Farmlands - LF#1011:SUN      | `lpt_coin_usd`        | `0xdAaca3CA5974626E7BB18B2f2245438e04d128f1` | `0x8B759517f13337e351E0E715D5fa7De2c5c4388d` |
-| 16  | SunFinance (SUN)            | LITE Farmlands - LF#1012:Nova     | `lpt_coin_usd`        | `0x60e91f89A2986975822De3BfE50df002Ef46EaAD` | `0x16e62E0227E9de7481817df74717d0ea72b8490C` |
+| 16  | SunFinance (SUN)            | LITE Farmlands - LF#1012:Nova     | `t_coin_usd`        | `0x60e91f89A2986975822De3BfE50df002Ef46EaAD` | `0x16e62E0227E9de7481817df74717d0ea72b8490C` |
 | 17  | Nova-WFTM Spooky LP         | LITE Farmlands - LF#2001:BLK      | `lpt_coin_usd`        | `0xe493CE1AfDCf079d0b40FF9503D7AB5f1f125477` | `0x05BF8A10a24acB9D61b9b6dd90aeF99FB86A1C7e` |
-| 18  | BLK-Nova Spirit LP          | LITE Farmlands - LF#2002:Nova     | `lpt_coin_usd`        | `0x22a38F5fef8623E2F4d9Ba0243cD1bD74dbbDE2C` | `0x397162B32D1Aafe137b434f3f3B05615266E7d33` |
-| 19  | SuperNova (Nova)            | LITE Farmlands - LF#2004:BLK      | `lpt_coin_usd`        | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x345551265a8938472991d60a048cae3625e0cd6d` |
+| 18  | BLK-Nova Spirit LP          | LITE Farmlands - LF#2002:Nova     | `lpt_tt_coin_usd`        | `0x22a38F5fef8623E2F4d9Ba0243cD1bD74dbbDE2C` | `0x397162B32D1Aafe137b434f3f3B05615266E7d33` |
+| 19  | SuperNova (Nova)            | LITE Farmlands - LF#2004:BLK      | `t_coin_usd`        | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x345551265a8938472991d60a048cae3625e0cd6d` |
 | 20  | BLK-WFTM Spooky LP          | LITE Farmlands - LF#2005:Nova     | `lpt_coin_usd`        | `0x623765857B74Da6F5A52A362d228de7F7859224f` | `0x409FDAde151082444607FfA2Cb1cBFB8358c59Ff` |
 | 21  | SST-WFTM Spirit LP          | LITE Farmlands - LF#2006:BLK      | `lpt_coin_usd`        | `0x634c206d44c8B392305fdBBC9263229A7C0a6891` | `0xB5aEd208a908bBAd4Cd8e4308A8Ef9E69E644127` |
-| 22  | SuperNova (Nova)            | LITE Farmlands - LF#2007:SUN      | `lpt_coin_usd`        | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x7e10D986975C9CEe043090D6E8559403D47546f5` |
+| 22  | SuperNova (Nova)            | LITE Farmlands - LF#2007:SUN      | `t_coin_usd`        | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x7e10D986975C9CEe043090D6E8559403D47546f5` |
+| 23  | USDC-WFTM Knight LP         | The Granaries - GRAIN#2201        | `t_e`               | `0xB733654453404AAb46d34E68fF24415F5f588C21` | `0x50e66D1232f272B481F349F01b5C6019896A23e3` |
 
 
 ## Banks : By Module
