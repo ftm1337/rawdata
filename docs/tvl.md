@@ -24,6 +24,10 @@ ftm.guru's Databanks & Adapters:
 - `coin` refers to the native unit of the blockchain. On Fantom Opera, it refers to the FTM.
 
 ### Smart Contract Details
+#### v6 Address
+`0x0786c3a78f5133F08C1c70953B8B10376bC6dCad`
+- [Read on ftmscan](https://ftmscan.com/address/0x0786c3a78f5133F08C1c70953B8B10376bC6dCad#readContract)
+- 
 #### v5 Address
 `0x3f0458FfB6D106d2F5CdeC9CEdc9054A69275489`
 - [Read on ftmscan](https://ftmscan.com/address/0x3f0458FfB6D106d2F5CdeC9CEdc9054A69275489#readContract)
