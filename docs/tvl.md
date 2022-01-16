@@ -49,16 +49,6 @@ Our `v5` TVL gets imported cummulatively into the new `v6` as an `e_usd` Bank. D
 #### v4 Address
 - `0x41b9231e528a417341382b2c995c6dde21cea93d` [Read on ftmscan](https://ftmscan.com/address/0x41b9231e528a417341382b2c995c6dde21cea93d#readContract)
 
-### Summary of Modules
-
-
-### On-chain Usage (`ITVL`)
-
-
-### Off-chain Usage (A.B.I.)
-
-
-### Accounts & DataBanks
 
 
 ----
