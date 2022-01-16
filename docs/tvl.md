@@ -23,11 +23,28 @@ ftm.guru's Databanks & Adapters:
 - The Universal TVL Finder can work with any Protocol, Project or EVM-like blockchain. 
 - `coin` refers to the native unit of the blockchain. On Fantom Opera, it refers to the FTM.
 
+### Our own instances of `tvlGuru`
+`tvlGuru.sol` is a template anyone can deploy for their own use. The base contract is same for everyone yet the contract storage is unique for each instance. We utilize our own instances of `tvlGuru` for kcc.guru and ftm.guru TVL calculations.
+
+#### Special note:
+ftm.guru TVL accumulations started in [June 2021](https://ftmscan.com/tx/0x294a18e9961af8a4084b14a3e57b963640c5aae6e6a669f1e067a0340889cfab) with YieldState - 1.
+The `v6` contract features an advanced `p_lpt_tt_coin_usd` module, which is an improvement over the sub-optimal module on `v5`.  
+Our `v5` TVL gets imported cummulatively into the new `v6` as an `e_usd` Bank. Doing this has the following specialities:
+- Saves time required for making 25+ transactions.
+- Economical since gas is now more expensive on Fantom.
+- Compatible interface and modularity helps make easy upgrades.
+- `v6` cannot be queried for historical data behind 2021-01-16.
+- `v5` should be used for historical data between 2020-12-26 and 2021-01-16.
+- `v6` is recommended for all uses, applications and analytics.
+
+
 ### Smart Contract Details
 #### v6 Address
-`0x0786c3a78f5133F08C1c70953B8B10376bC6dCad`
+`fantom:0x0786c3a78f5133F08C1c70953B8B10376bC6dCad`
 - [Read on ftmscan](https://ftmscan.com/address/0x0786c3a78f5133F08C1c70953B8B10376bC6dCad#readContract)
-- 
+`kcc:0x426a4A4B73d4CD173C9aB78d18c0d79d1717eaA9`
+- [Read on scan.kcc](https://scan.kcc.io/address/0x426a4A4B73d4CD173C9aB78d18c0d79d1717eaA9/read-contracts)
+
 #### v5 Address
 `0x3f0458FfB6D106d2F5CdeC9CEdc9054A69275489`
 - [Read on ftmscan](https://ftmscan.com/address/0x3f0458FfB6D106d2F5CdeC9CEdc9054A69275489#readContract)
