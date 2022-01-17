@@ -73,6 +73,9 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 | 7   | wKCS-DAI Kuswap LPT         | Kompound Protocol - GRAIN#3203    | `e_usd`               | `0xe2c3a808dc1ed72f7d148d073def94ddbef87c51` | `0x2A5C9F52b0211Ed72f776a3692de192Cef8B160F` |
 | 8   | wKCS-BTCK Kuswap LPT        | Kompound Protocol - GRAIN#3204    | `e_usd`               | `0x009fe8daccdcb2c82f5bde0e9a28d0d802ff93fd` | `0x03010C2C9E5eC5779fF744e79A86921d58486085` |
 
+*To-do: Push TVL info from all the Casino & Games Contracts*
+
+
 ### Fantom
 
 |  №  |    Asset Locked Up          | Pool Contract locker              | ITVL Interface Module |             Asset Contract Address           |              Pool Contract Address           |     
@@ -99,8 +102,10 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 | 21  | SST-WFTM Spirit LP          | LITE Farmlands - LF#2006:BLK      | `lpt_coin_usd`        | `0x634c206d44c8B392305fdBBC9263229A7C0a6891` | `0xB5aEd208a908bBAd4Cd8e4308A8Ef9E69E644127` |
 | 22  | SuperNova (Nova)            | LITE Farmlands - LF#2007:SUN      | `t_coin_usd`          | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x7e10D986975C9CEe043090D6E8559403D47546f5` |
 | 23  | USDC-WFTM Knight LP         | Kompound Protocol - GRAIN#2201    | `e_usd`               | `0xB733654453404AAb46d34E68fF24415F5f588C21` | `0x50e66D1232f272B481F349F01b5C6019896A23e3` |
-| 23  | USDC-WFTM Wraith LP         | Kompound Protocol - GRAIN#2301    | `e_usd`               | `0xB733654453404AAb46d34E68fF24415F5f588C21` | `0x50e66D1232f272B481F349F01b5C6019896A23e3` |
-| 23  | BOO                         | Kompound Protocol - GRAIN#2502    | `e_usd`               | `0xB733654453404AAb46d34E68fF24415F5f588C21` | `0x50e66D1232f272B481F349F01b5C6019896A23e3` |
+| 24  | USDC-WFTM Wraith LP         | Kompound Protocol - GRAIN#2301    | `e_usd`               | `` | `` |
+| 25  | BOO                         | Kompound Protocol - GRAIN#2502    | `e_usd`               | `` | `` |
+| 26  | MIM-WFTM Bomb LP            | Kompound Protocol - GRAIN#2601    | `e_usd`               | `` | `` |
+| 27  | USDC-WFTM Spooky LP         | Kompound Protocol - GRAIN#2701    | `e_usd`               | `` | `` |
 
 ----
 ----
