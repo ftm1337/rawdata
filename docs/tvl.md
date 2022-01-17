@@ -60,6 +60,21 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 
 ## Banks : By Chronology
 
+### KCC
+
+|  №  |    Asset Locked Up          | Pool Contract locker              | ITVL Interface Module |             Asset Contract Address           |              Pool Contract Address           |     
+| --- |           ---               |          ---                      |           ---         |                  ---                         |                    ---                       |
+| 1   | KCS                         | Kucino Casino - Profitshare       | `coin_usd`            | `0xEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE` | `0x4c9fa6297d3413fbbe7ba935e14022d0e5a39dc7` |
+| 2   | wKCS-BNB Kudex LPT          | Kompound Protocol - GRAIN#3101    | `e_usd`               | `0x7b693def9d5E34DC867b0328409380DDD80b2d93` | `0xddca793284b546cce25e03af53c2ac0f949a8b8d` |
+| 3   | wKCS-USDT Kudex LPT         | Kompound Protocol - GRAIN#3102    | `e_usd`               | `0x9528b555666E36490574217ec9E159a9B89203e2` | `0xf5be9634549fead60f7dce272fe9a4b96c3b1926` |
+| 4   | wKCS-USDC Kudex LPT         | Kompound Protocol - GRAIN#3103    | `e_usd`               | `0xfcFE2562fb9edD16aBbA43295D66B154f79C56D1` | `0x727A82566ff09AC80ce9D33651197dDCDaFd5a3D` |
+| 5   | wKCS-USDT Kuswap LPT        | Kompound Protocol - GRAIN#3201    | `e_usd`               | `0x6c31e0F5c07b81A87120cc58c4dcc3fbafb00367` | `0x5Bb3895D4faC7Ce3AfBb163A9e0a9364aa7AA07d` |
+| 6   | wKCS-USDC Kuswap LPT        | Kompound Protocol - GRAIN#3202    | `e_usd`               | `0x943F29A00415D8cE38607aBb81e36cdDfDCAA77f` | `0x974822c6fd06709709fbf880d29352EF19A7CF88` |
+| 7   | wKCS-DAI Kuswap LPT         | Kompound Protocol - GRAIN#3203    | `e_usd`               | `0xe2c3a808dc1ed72f7d148d073def94ddbef87c51` | `0x2A5C9F52b0211Ed72f776a3692de192Cef8B160F` |
+| 8   | wKCS-BTCK Kuswap LPT        | Kompound Protocol - GRAIN#3204    | `e_usd`               | `0x009fe8daccdcb2c82f5bde0e9a28d0d802ff93fd` | `0x03010C2C9E5eC5779fF744e79A86921d58486085` |
+
+### Fantom
+
 |  №  |    Asset Locked Up          | Pool Contract locker              | ITVL Interface Module |             Asset Contract Address           |              Pool Contract Address           |     
 | --- |           ---               |          ---                      |           ---         |                  ---                         |                    ---                       |
 | 1   | ELITE-WFTM Sushi LPT        | YieldState                        | `lpt_coin_usd`        | `0x50576ed9d94cf934bc32abf76e08ec6ddcd54bf0` | `0xef66a11788a3b3180be4aa31a5743c6a6e87a555` |
@@ -74,20 +89,30 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 | 11  | BabySpirit-WFTM Spirit LP   | LITE Farmlands - LF#151:BabySpirit| `lpt_coin_usd`        | `0xB0002624766dA87e249eae3B6175D4EAE7373eAb` | `0xF88005D839A2f14E6b4f14938bb3DEB4521cff21` |
 | 12  | BabySpirit-WFTM Spirit LP   | LITE Farmlands - LF#152:BabySpirit| `lpt_coin_usd`        | `0xB0002624766dA87e249eae3B6175D4EAE7373eAb` | `0xCd1430673B0EA81A3c027f13BCb1cC13EDEc6680` |
 | 13  | TCUZ-WFTM Sushi LP          | LITE Farmlands - LF#301:TCUZ      | `lpt_coin_usd`        | `0x0B7528b304fA3B89A3D1d2C4B958134512464097` | `0x8B2D8EBb49f1133522E669166E605799DC445f6E` |
-| 14  | SunFinance (SUN)            | LITE Farmlands - LF#1010:SUN      | `t_coin_usd`        | `0x60e91f89A2986975822De3BfE50df002Ef46EaAD` | `0x0f907b1C407bABdbaDb57100704c3CB8CDD9Db01` |
+| 14  | SunFinance (SUN)            | LITE Farmlands - LF#1010:SUN      | `t_coin_usd`          | `0x60e91f89A2986975822De3BfE50df002Ef46EaAD` | `0x0f907b1C407bABdbaDb57100704c3CB8CDD9Db01` |
 | 15  | SUN-FTM Spirit LP           | LITE Farmlands - LF#1011:SUN      | `lpt_coin_usd`        | `0xdAaca3CA5974626E7BB18B2f2245438e04d128f1` | `0x8B759517f13337e351E0E715D5fa7De2c5c4388d` |
-| 16  | SunFinance (SUN)            | LITE Farmlands - LF#1012:Nova     | `t_coin_usd`        | `0x60e91f89A2986975822De3BfE50df002Ef46EaAD` | `0x16e62E0227E9de7481817df74717d0ea72b8490C` |
+| 16  | SunFinance (SUN)            | LITE Farmlands - LF#1012:Nova     | `t_coin_usd`          | `0x60e91f89A2986975822De3BfE50df002Ef46EaAD` | `0x16e62E0227E9de7481817df74717d0ea72b8490C` |
 | 17  | Nova-WFTM Spooky LP         | LITE Farmlands - LF#2001:BLK      | `lpt_coin_usd`        | `0xe493CE1AfDCf079d0b40FF9503D7AB5f1f125477` | `0x05BF8A10a24acB9D61b9b6dd90aeF99FB86A1C7e` |
-| 18  | BLK-Nova Spirit LP          | LITE Farmlands - LF#2002:Nova     | `lpt_tt_coin_usd`        | `0x22a38F5fef8623E2F4d9Ba0243cD1bD74dbbDE2C` | `0x397162B32D1Aafe137b434f3f3B05615266E7d33` |
-| 19  | SuperNova (Nova)            | LITE Farmlands - LF#2004:BLK      | `t_coin_usd`        | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x345551265a8938472991d60a048cae3625e0cd6d` |
+| 18  | BLK-Nova Spirit LP          | LITE Farmlands - LF#2002:Nova     | `lpt_tt_coin_usd`     | `0x22a38F5fef8623E2F4d9Ba0243cD1bD74dbbDE2C` | `0x397162B32D1Aafe137b434f3f3B05615266E7d33` |
+| 19  | SuperNova (Nova)            | LITE Farmlands - LF#2004:BLK      | `t_coin_usd`          | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x345551265a8938472991d60a048cae3625e0cd6d` |
 | 20  | BLK-WFTM Spooky LP          | LITE Farmlands - LF#2005:Nova     | `lpt_coin_usd`        | `0x623765857B74Da6F5A52A362d228de7F7859224f` | `0x409FDAde151082444607FfA2Cb1cBFB8358c59Ff` |
 | 21  | SST-WFTM Spirit LP          | LITE Farmlands - LF#2006:BLK      | `lpt_coin_usd`        | `0x634c206d44c8B392305fdBBC9263229A7C0a6891` | `0xB5aEd208a908bBAd4Cd8e4308A8Ef9E69E644127` |
-| 22  | SuperNova (Nova)            | LITE Farmlands - LF#2007:SUN      | `t_coin_usd`        | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x7e10D986975C9CEe043090D6E8559403D47546f5` |
-| 23  | USDC-WFTM Knight LP         | The Granaries - GRAIN#2201        | `t_e`               | `0xB733654453404AAb46d34E68fF24415F5f588C21` | `0x50e66D1232f272B481F349F01b5C6019896A23e3` |
+| 22  | SuperNova (Nova)            | LITE Farmlands - LF#2007:SUN      | `t_coin_usd`          | `0xA1Ac4AB0E58Bb6CfDFf5797c83cDBE7cB651f7e5` | `0x7e10D986975C9CEe043090D6E8559403D47546f5` |
+| 23  | USDC-WFTM Knight LP         | Kompound Protocol - GRAIN#2201    | `e_usd`               | `0xB733654453404AAb46d34E68fF24415F5f588C21` | `0x50e66D1232f272B481F349F01b5C6019896A23e3` |
+| 23  | USDC-WFTM Wraith LP         | Kompound Protocol - GRAIN#2301    | `e_usd`               | `0xB733654453404AAb46d34E68fF24415F5f588C21` | `0x50e66D1232f272B481F349F01b5C6019896A23e3` |
+| 23  | BOO                         | Kompound Protocol - GRAIN#2502    | `e_usd`               | `0xB733654453404AAb46d34E68fF24415F5f588C21` | `0x50e66D1232f272B481F349F01b5C6019896A23e3` |
 
+----
+----
+----
+
+*Following sections are not up-to-date. Please refer above tables for Asset & Pool Contract's details.*
+
+----
+----
+----
 
 ## Banks : By Module
-*Following section is not up-to-date. Please refer above table for Asset & Pool Contract's details.*
 ### `coin_usd`
 For native FTM locked in a contract, with price sourced from an FTM-USDC Spookyswap pool.
 
