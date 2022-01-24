@@ -106,41 +106,35 @@ Beneath it, are detailed all Banks, grouped acccording to modules.
 | 25  | BOO                         | Kompound Protocol - GRAIN#2502    | `e_usd`               | `` | `` |
 | 26  | MIM-WFTM Bomb LP            | Kompound Protocol - GRAIN#2601    | `e_usd`               | `` | `` |
 | 27  | USDC-WFTM Spooky LP         | Kompound Protocol - GRAIN#2701    | `e_usd`               | `` | `` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2201    | `e_usd`               | `0x50e66D1232f272B481F349F01b5C6019896A23e3` | `0xB733654453404AAb46d34E68fF24415F5f588C21` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2301    | `e_usd`               | `0xd15d6434aC56007BA85ce89377481964eBDf532a` | `0xc43b6a7ff3929be35cd4297309585e43b51ce0f4` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2303    | `e_usd`               | `0xFe80Ecb1B879f24B08E3Caa74246D4Ae17fbA53B` | `0x017672C6254c8C9593bc3B71F1a97E9ba45E8817` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2401    | `e_usd`               | `0x50e66D1232f272B481F349F01b5C6019896A23e3` | `0xB733654453404AAb46d34E68fF24415F5f588C21` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2502    | `e_usd`               | `0xf29C310D60e87bf54DC973DF73D64a339bb944Cb` | `0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2601    | `e_usd`               | `0x6eC2Cb84422403e06935ac55910Fa3609F55BCce` | `0x74928bfae5d4de45df48d9652de02ece529e8729` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2602    | `e_usd`               | `0x00bedBdD440ff2eFEC3A6a42230e8D3Bfac63d63` | `0x8264f247e4571e2879a05d5d2115c26406c0bc2b` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2607    | `e_usd`               | `0xC7d89a0aA32eb496222f88fA1193566C761b7681` | `0xbef5ea523ca88abb821d47a4bd872d66104ff3f5` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2608    | `e_usd`               | `0xD42C91A330425858BFD78e291365E1b41f56a2Ff` | `0x82c40B555f2dbb6704f214d984da3efdDE64711C` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2609    | `e_usd`               | `0x15FcCE81d8f5B4847e0F65243BFDA85972c98474` | `0x874bB203aBb6AB8A791b56277B680c555f29aB1c` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2610    | `e_usd`               | `0x2b5005f9F08f8A899c7186BD90071da4a131dD46` | `0xDe8908Bc8aA9Fe4515079E2Dbc9380f659dFAd62` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2701    | `e_usd`               | `0x5E62e97A73258947e1745071Ba342C6169A25E80` | `0x2b4C76d0dc16BE1C31D4C1DC53bF9B45987Fc75c` |
+| 33  | WFTM LP                     | Kompound Protocol - GRAIN#2901    | `e_usd`               | `0xfD5d0aB5404dd472975922501f670d194732577B` | `0x76e0c9e6f98b27f11ff3735388f982aed1de72c9` |
+| 44  | USDC (WEVE)                 | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0xD7627edF607C49F525212fC09d650A91a9B222e1` | `WFTM` |
+| 44  | USDC (WEVE)                 | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x1b70E038f9eC9A8f979B4e6D8CD0Dc85df677CB2` | `ETH	` |
+| 44  | USDC (WEVE)                 | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x48b628ac7f6fa84298c6b3198130c2068073ab01` | `YFI	` |
+| 44  | USDC (WEVE)                 | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0xd072046b0928b9Eb6B2Afa9D80cbDFE759Ef3A8B` | `USDC` |
+| 44  | USDC (WEVE)                 | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x69B83634B6E7C2bfFAb8B1ae3B8498d2dab6D51f` | `MIM	` |
+| 44  | USDC (WEVE)                 | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x2938F27687Ae2ad54db2B91B4B836B6ADD15AC8f` | `FRAX` |
+| 44  | USDC (WEVE)                 | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0xe125C9c6560c17f4dF8774dB6B9e5d2b3BF9947f` | `LP		` |
+| 44  | USDC (OXD)                  | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0xA2B1f90A6CF0FD5451E0fE7ED67331EC15Bd1aAB` | `FTM	` |
+| 44  | USDC (OXD)                  | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x27881D9Ee5F4769AdE8762E93c503D3a7C59769e` | `ETH	` |
+| 44  | USDC (OXD)                  | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0xC255FCEFf6967B30E1A467FA4e97560ae5fE54bA` | `BTC	` |
+| 44  | USDC (OXD)                  | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x27DaBA6E82A23C5f9C264257b417D3b99435469d` | `USDC` |
+| 44  | USDC (OXD)                  | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x8885dAa97a0A6590740B6139FD81613D5A543C20` | `DAI	` |
+| 44  | USDC (OXD)                  | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0xa638Fe74968c9B95E2E3868f9487390087Ef80aC` | `MIM	` |
+| 44  | USDC (OXD)                  | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x2E24ABF15ECdA2D58E9840456D397CfbA30c9895` | `LQDR` |
+| 44  | USDC (OXD)                  | Kompound Protocol - GRAIN#4101    | `e_usd`               | `0x4b7bfaF14a961D0033a2f65d07523b8321D7e477` | `TOMB` |
 
-```
-// Add
-2201	|	0x50e66D1232f272B481F349F01b5C6019896A23e3"	|	0xB733654453404AAb46d34E68fF24415F5f588C21";
-2301	|	0xd15d6434aC56007BA85ce89377481964eBDf532a"	|	0xc43b6a7ff3929be35cd4297309585e43b51ce0f4";
-2303	|	0xFe80Ecb1B879f24B08E3Caa74246D4Ae17fbA53B"	|	0x017672C6254c8C9593bc3B71F1a97E9ba45E8817";
-2401	|	0x50e66D1232f272B481F349F01b5C6019896A23e3"	|	0xB733654453404AAb46d34E68fF24415F5f588C21";
-2502	|	0xf29C310D60e87bf54DC973DF73D64a339bb944Cb"	|	0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE";
-2602	|	0x00bedBdD440ff2eFEC3A6a42230e8D3Bfac63d63"	|	0x8264f247e4571e2879a05d5d2115c26406c0bc2b";
-2607	|	0xC7d89a0aA32eb496222f88fA1193566C761b7681"	|	0xbef5ea523ca88abb821d47a4bd872d66104ff3f5";
-2608	|	0xD42C91A330425858BFD78e291365E1b41f56a2Ff"	|	0x82c40B555f2dbb6704f214d984da3efdDE64711C";
-2609	|	0x15FcCE81d8f5B4847e0F65243BFDA85972c98474"	|	0x874bB203aBb6AB8A791b56277B680c555f29aB1c";
-2610	|	0x2b5005f9F08f8A899c7186BD90071da4a131dD46"	|	0xDe8908Bc8aA9Fe4515079E2Dbc9380f659dFAd62";
-2701	|	0x5E62e97A73258947e1745071Ba342C6169A25E80"	|	0x2b4C76d0dc16BE1C31D4C1DC53bF9B45987Fc75c";
-290	|	0xfD5d0aB5404dd472975922501f670d194732577B"	|	0x76e0c9e6f98b27f11ff3735388f982aed1de72c9";
-
-41xx: veDAO
-0xD7627edF607C49F525212fC09d650A91a9B222e1	WFTM	4101/
-0x1b70E038f9eC9A8f979B4e6D8CD0Dc85df677CB2	ETH		4102/
-0x48b628ac7f6fa84298c6b3198130c2068073ab01	YFI		4103/
-0xd072046b0928b9Eb6B2Afa9D80cbDFE759Ef3A8B	USDC	4104/
-0x69B83634B6E7C2bfFAb8B1ae3B8498d2dab6D51f	MIM		4105/
-0x2938F27687Ae2ad54db2B91B4B836B6ADD15AC8f	FRAX	4106/
-0xe125C9c6560c17f4dF8774dB6B9e5d2b3BF9947f	LP		4107/
-
-42xx: 0xDAO
-0xA2B1f90A6CF0FD5451E0fE7ED67331EC15Bd1aAB	FTM		4201/
-0x27881D9Ee5F4769AdE8762E93c503D3a7C59769e	ETH		4202/
-0xC255FCEFf6967B30E1A467FA4e97560ae5fE54bA	BTC		4203/
-0x27DaBA6E82A23C5f9C264257b417D3b99435469d	USDC	4204/
-0x8885dAa97a0A6590740B6139FD81613D5A543C20	DAI		4205/
-0xa638Fe74968c9B95E2E3868f9487390087Ef80aC	MIM		4206/
-0x2E24ABF15ECdA2D58E9840456D397CfbA30c9895	LQDR	4209/
-0x4b7bfaF14a961D0033a2f65d07523b8321D7e477	TOMB	4212/
-```
 
 ----
 ----
