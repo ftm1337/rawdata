@@ -1,5 +1,5 @@
 # Voting Rules at Equalizer.Exchange
-If you lock your EQUAL tokens, you will receive a VE-NFT (ve means "vote-escrow"). This is a Financial NFT, which represents the absolute ownership rights to the EQUAL locked inside such an NFT. It can be utilized to Vote for your favorite Liquidity Pools and the proportion of votes that a pool gets determines how much share of EQUAL emissions it gets incentivized with in the upcoming week!
+If you lock your EQUAL tokens at <https://Equalizer.exchange>, you will receive a VE-NFT (ve means "vote-escrow"). This is a Financial NFT, which represents the absolute ownership rights to the EQUAL locked inside such an NFT. It can be utilized to Vote for your favorite Liquidity Pools and the proportion of votes that a pool gets determines how much share of EQUAL emissions it gets incentivized with in the upcoming week!
 
 ## Moving your veNFT between wallets
 To trade your NFTs, you might need to move them to a different address like an NFT marketplace. Or to participate in an NFT DEX like the VeNAMM, you will be required to move your veNFTs into its Liquidity pools. Some people have multiple NFTs and might want to Merge them into a Single NFT (in this case, the 'from' NFT is burned & its contents get transferred to the 'to' NFT. Or you might want to simply change your address and use a new one for personal reason. In all such cases, you would want to Transfer your NFTs to a different address.
@@ -9,12 +9,12 @@ Here are some things that you should keep in mind:
 If you have not Voted using a NFT, then that NFT can be freely moved between wallets like a regular NFT.
 - You can use Metamask, Rainbow, Frame, Mathwallet or any other wallet to transfer NFTs.
 - NFTs can also be transferred using the **transferFrom** function via ftmscan:
-https://ftmscan.com/address/0x8313f3551c4d3984ffbadfb42f780d0c8763ce94#writeProxyContract
+<https://ftmscan.com/address/0x8313f3551c4d3984ffbadfb42f780d0c8763ce94#writeProxyContract>
 
 ### After Voting
 But if you have voted using a NFT, it gets blocked from movement for upto 1 week, until the upcoming Thursday.
 - To move such an NFT, you first have to call the **reset** function#21 by entering the TokenID of your NFT. It can be done via ftmscan:
-https://ftmscan.com/address/0x4bebeb8188aef8287f9a7d1e4f01d76cbe060d5b#writeProxyContract
+<https://ftmscan.com/address/0x4bebeb8188aef8287f9a7d1e4f01d76cbe060d5b#writeProxyContract>
 
 - After doing the Reset of Votes, your NFT is free to be moved.
 
@@ -42,7 +42,7 @@ If the "From-NFT" has already Voted in the current week, it cannot be merged. To
  
 ### After Merging veNFTs
 Once you have merged 2 NFTs, you will have to call the **Poke** function and enter the TokenID of your new NFT to scale up your Votes to include the votes of the old "From-NFT" into the new "To-NFT". It can be done via ftmscan function #19
-https://ftmscan.com/address/0x4bebeb8188aef8287f9a7d1e4f01d76cbe060d5b#writeProxyContract
+<https://ftmscan.com/address/0x4bebeb8188aef8287f9a7d1e4f01d76cbe060d5b#writeProxyContract>
 
 - After a merge, you still cannot change the votes. But the number of votes can be increased to the new combined amount of "From-NFT" & "To-NFT".
 - If you do not poke the merged NFT, your Votes will not increase in the current week.
