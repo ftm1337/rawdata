@@ -13,16 +13,21 @@ ve-token of Equalizer. ERC721 NFT.
 - 0x8313f3551c4d3984ffbadfb42f780d0c8763ce94
 
 ## List
+- [P] indicates a Protocol or a DAO.
+
 
 Protocol/Entity Name | Addresses | Notes
 ---- | ---- | ----
-Millenium Club: Wallet 1|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Millenium Club: Wallet 2|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Liquid Driver           |	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Firebird Finance        |	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Mummy Finance           |	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Deus Finance            |	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Guru Network	          |	0x167d87a906da361a10061fe42bbe89451c2ee584	|	[P] ftm.guru
+Millenium Club: Wallet 1	|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Millenium Club: Wallet 2	|	0x3ef000Bae3e8105be55F76FDa784fD7d69CFf30e	|	[P] DAO
+Liquid Driver			|	0x3cde01de3bc9aedb7e363646c7e4b0ae23a81d6f	|	[P] DAO
+Firebird Finance		|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Mummy Finance			|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Deus Finance			|	0x83b285e802d76055169b1c5e3bf21702b85b89cb	|	[P] DAO
+Guru Network			|	0x167d87a906da361a10061fe42bbe89451c2ee584	|	[P] ftm.guru
+Guru Network: VeNAMM DEX- Pool 1|	0x6b4a8b8e5e83a0e1631e5c01faf44fb371bd2956	|	[P] ftm.guru
+Guru Network: VeNAMM DEX- Pool 2|	0xbda1d1fbcece78d424fd97b3de251ceb678c20df	|	[P] ftm.guru
+Beefy Finance			|	0x6b4a8b8e5e83a0e1631e5c01faf44fb371bd2956	|	[P] beefy.finance
 
 
 ----
@@ -46,13 +51,12 @@ ve-token of Solidly. ERC721 NFT.
 ## List
 Some have ve, some have mo, some have elmo, some have both!
 - What Monolith is to Solidly is somewhat similar to what Aura is to Balancer or Convex to Curve, and might warrant its own wars.
-- [P] indicates a Protocol or a DAO.
 
 Protocol/Entity Name | Addresses | Notes
 ---- | ---- | ----
-Monolith	  	|	0x7e71fa1fce0bd0475c60065da5f917e68c072d39	|	[P] mono.farm, tokenized: elmoSOLID
-Roosh			    |	0xddf169bf228e6d6e701180e2e6f290739663a784	|	Independent VC / whale
-Millenium Club|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Lafa        	|	0x83b285e802d76055169b1c5e3bf21702b85b89cb	|	Independent VC / whale
+Monolith	|	0x7e71fa1fce0bd0475c60065da5f917e68c072d39	|	[P] mono.farm, tokenized: elmoSOLID
+Roosh		|	0xddf169bf228e6d6e701180e2e6f290739663a784	|	Independent VC / whale
+Millenium Club	|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Deus Finance	|	0x83b285e802d76055169b1c5e3bf21702b85b89cb	|	[P] deus.finance
 Guru Network	|	0x167d87a906da361a10061fe42bbe89451c2ee584	|	[P] ftm.guru
 Ripae Finance	|	0xda2d96eadab3671d9dfc6b2901aa85e99f8f0eb3	|	[P] ripae.finance
