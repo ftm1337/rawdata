@@ -16,18 +16,20 @@ ve-token of Equalizer. ERC721 NFT.
 - [P] indicates a Protocol or a DAO.
 
 
-Protocol/Entity Name | Addresses | Notes
----- | ---- | ----
-Millenium Club: Wallet 1	|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Millenium Club: Wallet 2	|	0x3ef000Bae3e8105be55F76FDa784fD7d69CFf30e	|	[P] DAO
-Liquid Driver			|	0x3cde01de3bc9aedb7e363646c7e4b0ae23a81d6f	|	[P] DAO
-Firebird Finance		|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Mummy Finance			|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
-Deus Finance			|	0x83b285e802d76055169b1c5e3bf21702b85b89cb	|	[P] DAO
-Guru Network			|	0x167d87a906da361a10061fe42bbe89451c2ee584	|	[P] ftm.guru
-Guru Network: VeNAMM DEX- Pool 1|	0x6b4a8b8e5e83a0e1631e5c01faf44fb371bd2956	|	[P] ftm.guru
-Guru Network: VeNAMM DEX- Pool 2|	0xbda1d1fbcece78d424fd97b3de251ceb678c20df	|	[P] ftm.guru
-Beefy Finance			|	0x6b4a8b8e5e83a0e1631e5c01faf44fb371bd2956	|	[P] beefy.finance
+Protocol/Entity Name | Addresses | Notes | veNFT IDs
+---- | ---- | ---- | ----
+Millenium Club: Wallet 1	|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO			|	423
+Millenium Club: Wallet 2	|	0x3ef000Bae3e8105be55F76FDa784fD7d69CFf30e	|	[P] DAO			|	787
+Liquid Driver			|	0x3cde01de3bc9aedb7e363646c7e4b0ae23a81d6f	|	[P] DAO			|
+Firebird Finance		|	0x1d9a60325cd837f84f42cee66b3beb09ed29a86b	|	[P] DAO			|	658, 1886, 1916
+Mummy Finance			|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO			|
+Deus Finance			|	0x83b285e802d76055169b1c5e3bf21702b85b89cb	|	[P] DAO			|
+Guru Network			|	0x167d87a906da361a10061fe42bbe89451c2ee584	|	[P] ftm.guru		|	8, 15, 2080
+Guru Network: VeNAMM DEX- Pool 1|	0x6b4a8b8e5e83a0e1631e5c01faf44fb371bd2956	|	[P] ftm.guru		|	26
+Guru Network: VeNAMM DEX- Pool 2|	0xbda1d1fbcece78d424fd97b3de251ceb678c20df	|	[P] ftm.guru		|	25
+Beefy Finance			|	0x010da5ff62b6e45f89fa7b2d8ced5a8b5754ec1b	|	[P] beefy.finance	|	2121
+Tarot				|							|	[P] tarot.to		|
+Reaper Farm			|							|	[P] reaper.farm		|
 
 
 ----
