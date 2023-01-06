@@ -1,0 +1,58 @@
+# Notes for DefiWars.xyz
+
+----
+
+# Equalizer.Exchange
+## Tokens
+### EQUAL
+Base token of protocol.
+- 0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6
+
+### veEQUAL
+ve-token of Equalizer. ERC721 NFT.
+- 0x8313f3551c4d3984ffbadfb42f780d0c8763ce94
+
+## List
+
+Protocol/Entity Name | Addresses | Notes
+---- | ---- | ----
+Millenium Club: Wallet 1|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Millenium Club: Wallet 2|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Liquid Driver           |	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Firebird Finance        |	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Mummy Finance           |	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Deus Finance            |	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Guru Network	          |	0x167d87a906da361a10061fe42bbe89451c2ee584	|	[P] ftm.guru
+
+
+----
+
+# Solidly.com
+## Tokens
+### SOLID
+Base token of protocol.
+- 0x777172D858dC1599914a1C4c6c9fC48c99a60990
+
+### veSOLID
+ve-token of Solidly. ERC721 NFT.
+- 0x77730ed992D286c53F3A0838232c3957dAeaaF73
+
+### Monolith
+- moSOLID is the Base token of Monolith. Redeemable 1:1 for veSOLID directly.
+	- 0x848578e351d25b6ec0d486e42677891521c3d743
+- elmoSOLID is wrapped-autocompounding-rebasing moSOLID. convertible to moSOLID, but rebases weekly.
+	- 0x7c90784d6144967bf7b8c89ca06a3629d8abe642
+
+## List
+Some have ve, some have mo, some have elmo, some have both!
+- What Monolith is to Solidly is somewhat similar to what Aura is to Balancer or Convex to Curve, and might warrant its own wars.
+- [P] indicates a Protocol or a DAO.
+
+Protocol/Entity Name | Addresses | Notes
+---- | ---- | ----
+Monolith	  	|	0x7e71fa1fce0bd0475c60065da5f917e68c072d39	|	[P] mono.farm, tokenized: elmoSOLID
+Roosh			    |	0xddf169bf228e6d6e701180e2e6f290739663a784	|	Independent VC / whale
+Millenium Club|	0x28aa4f9ffe21365473b64c161b566c3cdead0108	|	[P] DAO
+Lafa        	|	0x83b285e802d76055169b1c5e3bf21702b85b89cb	|	Independent VC / whale
+Guru Network	|	0x167d87a906da361a10061fe42bbe89451c2ee584	|	[P] ftm.guru
+Ripae Finance	|	0xda2d96eadab3671d9dfc6b2901aa85e99f8f0eb3	|	[P] ripae.finance
