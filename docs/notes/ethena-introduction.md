@@ -1,10 +1,13 @@
----
-
 # eTHENA: Whitelisting Proposal
 
 > Proposal for whitelisting eTHENA token on Thena.fi DEX.
 
 This is doc is written as an article that first introduces the protocol and then outlines the benefits to Thena.fi from whitelisting eTHENA for a Gauge.
+
+
+### https://eliteness.network/ethena
+
+![Screenshot_2023-01-10 eTHENA veTHE Liquid Wrapper FTM guru(2)](https://user-images.githubusercontent.com/84405345/211822098-39558bfd-16da-4e5b-9e31-72dfbf5976ff.png)
 
 ---
 
