@@ -8,7 +8,7 @@ This is doc is written as an article that first introduces the protocol and then
 # Introduction
 eTHENA is a liquid wrapper for the locked veTHE (Thena's veNFT) which makes it possible to trade the benefits of  a veTHE position using a traditional A.M.M. such as Thena itself.
 
-### [eliteness.network/ethena](https://eliteness.network/ethena)
+### ⇢ [eliteness.network/ethena](https://eliteness.network/ethena)
 
 ![Screenshot_2023-01-10 eTHENA veTHE Liquid Wrapper FTM guru(2)](https://user-images.githubusercontent.com/84405345/211822098-39558bfd-16da-4e5b-9e31-72dfbf5976ff.png)
 
@@ -65,10 +65,9 @@ Our users will be able to deposit their eTHENA tokens at the Kompound Protocol o
 ## Dual-layer compounding
 This would be a doubly-compounding experience for our users, with the first layer of compounding coming from the Rebases onto eTHENA and the second layer from the compounding of BNB back into more eTHENA.
 
-This important distinction between the 2 layers enables us to satisfy two separate groups of our users:
-
+### Why don't we compound all yield at once?
 - **Thena maxis** - who want the highest yield per unit THE.
-- **Real Yield enthusiasts** - who prefer earnings & profits paid our regularly in BNB.
+- **Real Yield enthusiasts** - who prefer earnings & profits paid out regularly in BNB.
 
 
 
@@ -95,7 +94,7 @@ For new users, it offers a no-commitment exposure to the Thena Economy. eTHENA b
 eTHENA/BNB pool will bring in another liquidity pool to Thena which is guaranteed to generate consistent trade volume, thanks to the ieTHENA Granary.
 
 ## The Solidly Experience
-Guru Network is the oldest protocol using Solidly. We were the creators of the first solidly gauge on the testnet after Andre & team, and have been quite active in its testing, taking active part in improving the Solidly codebase & economic model throughout its life & birth. Our token ELITE on Fantom has been participating in the SolidlyWars right from the First Epoch last winter. Today we own nearly 2% of Solidly's circulating supply on Ethereum and have been actively suggesting code improvements to it. We are also the biggest non-partner protocol in it's governance race. We are more equitably involved with the Equalizer exchange, where we helped reshape many of  its facets. Our Solidly Extended Router has been used by multiple Solidly forks & Aggregators to make their ecosystems inclusive to exotic tokens. An alliance with Guru Network would greatly benefit Thena in the long run, as we are not here just for the yields, but for developing & mainting the actual Tech that futhers the Decentralization phenomenon.
+Guru Network is the oldest protocol using Solidly. We were the creators of the first solidly gauge on the testnet after Andre & team, and have been quite active in its testing, continuously taking part in improving the Solidly codebase with pulls & its economic model throughout its life & birth. Our token ELITE on Fantom has been participating in the SolidlyWars right from the First Epoch last winter. Today we own nearly 2% of Solidly's circulating supply on Ethereum and have been actively suggesting code improvements to it. We are also the biggest non-partner protocol in it's governance race. We are more equitably involved with the Equalizer exchange, where we helped reshape many of  its facets. Our Solidly Extended Router has been used by multiple Solidly forks & Aggregators to make their ecosystems inclusive to exotic tokens. An alliance with Guru Network would greatly benefit Thena in the long run, as we are not here just for the yields, but for developing & mainting the actual Tech that futhers the Decentralization phenomenon.
 
 ## And, Beginning of the Thena Wars
 We are the first protocol in the governance race of Thena.fi outside of the 19 partners. We believe the whitelisting of eTHENA at  Thena will encourage a lot more smaller and newer protocols to build unique products atop Thena and kickstart an era of collaborative building here.
