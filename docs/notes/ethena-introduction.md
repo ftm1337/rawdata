@@ -1,8 +1,5 @@
-# eTHENA: Whitelisting Proposal
-
-> Proposal for whitelisting eTHENA token on Thena.fi DEX.
-
-This is doc is written as an article that first introduces the protocol and then outlines the benefits to Thena.fi from whitelisting eTHENA for a Gauge.
+# eTHENA
+> Liquid Staking Wrapper for veTHE
 
 
 # Introduction
@@ -71,7 +68,7 @@ This would be a doubly-compounding experience for our users, with the first laye
 
 
 
-# Benefits to Thena.fi by whitelisting eTHENA
+# Benefits to Thena.fi ecosystem
 There are quite a few things that Guru Network brings to the table:
 
 ## Permanent Bribes
@@ -94,7 +91,10 @@ For new users, it offers a no-commitment exposure to the Thena Economy. eTHENA b
 eTHENA/BNB pool will bring in another liquidity pool to Thena which is guaranteed to generate consistent trade volume, thanks to the ieTHENA Granary.
 
 ## The Solidly Experience
-Guru Network is the oldest protocol using Solidly. We were the creators of the first solidly gauge on the testnet after Andre & team, and have been quite active in its testing, continuously taking part in improving the Solidly codebase with pulls & its economic model throughout its life & birth. Our token ELITE on Fantom has been participating in the SolidlyWars right from the First Epoch last winter. Today we own nearly 2% of Solidly's circulating supply on Ethereum and have been actively suggesting code improvements to it. We are also the biggest non-partner protocol in it's governance race. We are more equitably involved with the Equalizer exchange, where we helped reshape many of  its facets. Our Solidly Extended Router has been used by multiple Solidly forks & Aggregators to make their ecosystems inclusive to exotic tokens. An alliance with Guru Network would greatly benefit Thena in the long run, as we are not here just for the yields, but for developing & mainting the actual Tech that futhers the Decentralization phenomenon.
+Guru Network is the oldest protocol using Solidly. We were the creators of the first solidly gauge on the testnet after Andre & team, and have been quite active in its testing, continuously taking part in improving the Solidly codebase with pulls & its economic model throughout its life & birth. Our token ELITE on Fantom has been participating in the SolidlyWars right from the First Epoch last winter. Today we own nearly 2% of Solidly's circulating supply on Ethereum and have been actively suggesting code improvements to it. We are also the biggest non-partner protocol in it's governance race. We are more equitably involved with the Equalizer exchange, where we helped reshape many of  its facets. Our Solidly Extended Router has been used by multiple Solidly forks & Aggregators to make their ecosystems inclusive to exotic tokens. An alliance with Guru Network greatly benefits Thena in the long run, as we are not here just for the yields, but for developing & mainting the actual Tech that furthers the Decentralization phenomenon.
 
 ## And, Beginning of the Thena Wars
 We are the first protocol in the governance race of Thena.fi outside of the 19 partners. We believe the whitelisting of eTHENA at  Thena will encourage a lot more smaller and newer protocols to build unique products atop Thena and kickstart an era of collaborative building here.
+
+Check out the war in real-time at DefiWars.xyz!
+> [defiwars.xyz/wars/thena](https://www.defiwars.xyz/wars/thena)
